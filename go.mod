@@ -3,8 +3,8 @@ module github.com/jmespath/jp
 go 1.17
 
 require (
-	github.com/urfave/cli v1.22.5
 	github.com/jmespath/go-jmespath v0.4.0
+	github.com/urfave/cli v1.22.5
 )
 
 require (
